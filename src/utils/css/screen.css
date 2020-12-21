@@ -549,8 +549,10 @@ body {
 }
 
 .post-content-body {
-    font-size: 1.9rem;
+    font-size: 2.2rem;
     line-height: 1.65em;
+    text-align: justify;
+    text-justify: inter-word;
 }
 @media (max-width: 500px) {
     .post-content-body {

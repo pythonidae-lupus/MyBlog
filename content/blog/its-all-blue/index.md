@@ -1,9 +1,46 @@
 ---
-title: It's all blue
+title: Mindvalley - Why I wish to work there
 date: "2019-05-06"
-thumbnail: ./cody-davis-253928-unsplash.jpg
-description: What if everything you knew was turned to blue?
+thumbnail: ./mindvalley_hd.png
+description: Mindvalley - an up and coming company in the personal develpment realm.
 ---
+Mindvalley defines itself as a school for human transformation. The vision of Mindvalley is to elevate human consciousness to the next level….and I am an information technology student pursuing a B. Engineering degree in India. We both don’t seem to fit very well when it comes to an employer — employee relationship but, to be honest, I am still unsure about what I want my career to be. Even at Mindvalley, I might have to change my field of work drastically. The only thing I am sure of is that when I envision myself 5–6 years down the road of life, I see myself working in Mindvalley’s beautiful office in the USA, surrounded by their amazing community of optimistic and well-meaning people. So, I know where I want to be working and I know who I want my colleagues to be, but I have no clue about what I will be wanting to do!
+
+Sound familiar?
+
+My journey with Mindvalley started 2 years ago when I first came to know about Vishen’s six-phase guided meditation. Since then I have been following Vishen because his energy and his vision spoke to me. Then, I came to know about his app ‘Omvana’, and then the mindvalley app itself, the festival ‘A-fest’ hosted by Mindvalley and finally Vishen’s book titled ‘The Code of the Extraordinary Mind’. But don’t worry! My fascination for the company isn’t just built around one man’s vision and contribution to the world.
+
+*Mindvalley’s mission*
+
+“Our mission is to create personal transformation that raises human consciousness.” — From Mindvalley’s website.
+Who wouldn’t be inspired by this?!
+
+Although the meaning of “human consciousness” is subjective, it basically means — to raise the level of living, or the level of our existence, so that we can perform better, live healthily and grow intellectually. Mindvalley also has a teaching program called Mindvalley Masterclass which is available on their app and website. Masterclass includes training from coaches all over the world, and all of these coaches are pioneers in their fields; many of them are related to personal growth in some way and/or are international bestselling authors. This is a proof that Mindvalley is actively working on its mission and creating a global impact, spreading knowledge and wisdom to everyone.
+Values
+
+Mindvalley, especially the company’s founder Vishen, occasionally lets his followers know about his world-views through social media and speeches. Once these values are out in the open, only those people who are attracted by those values and whose values align with the company will want to work for it. This will ensure a healthy workplace environment because employees will be able to openly talk about their opinions and will not be afraid of getting singled out or ridiculed for it. It does not mean that every employee will have the same opinion on every matter, but they will be sure to meet open-minded and optimistic individuals because that is one of the values that Vishen and the company share and accept.
+
+Employee-centered environment
+
+The employees at Mindvalley are healthy, and when I say healthy, I mean completing-a-Spartan-race healthy! This is because Mindvalley gives importance to the physical health and mental health of its employees( Mindvalley started as a meditation focused company ). Mindvalley, accepting the results of many researches which say that the productivity of an employee is improved if she/he follows a healthy lifestyle, has built an office culture based on improving employee health. The Mindvalley office has been included in Inc. Magazines coolest office of the year 2012. How can an office be cool, right?! The sentence seems to be an oxymoron, but bean bags, open cubicles, plants and grass inside the office, different colored glasses which can change the color of the entire office depending on how the sun shines on them can make an office an amazing place to be in. Aside from the cool and beautiful looks, the office also serves as a passive gym. The jungle-gym inspired Mindvalley office forces the workers to exercise while they move from place to place. This keeps them fit and active. The office also houses some sleeping chambers for the employees to knock off some of their sleep debts and literally anyone can go and sleep inside them at any given time (yes really! An office where you can sleep guilt-free!). Each and every employee of Mindvalley in the USA also participated in the Spartan race this year (2019) and already started preparing for the next year’s race.
+
+A-fest
+
+A-fest is an annual festival started by Vishen Lakhiani. All Mindvalley employees participate in it and people outside Mindvalley can become a part of it too. A-fest is held at exotic locations and includes inspiring speakers from around the world, dance, music, art and a high dosage of optimism. The theme of A-fest changes every time and my research on A-fest fails to allow me to write in much detail about it, partly because I want to experience it with an element of surprise rather than a know-it-all attitude — if I ever get to experience it that is. Some A-fest speeches and videos can be found on Mindvalley’s YouTube channel and also on the Mindvalley podcast.
+more about a-fest and even for joining a-fest , visit— https://www.afest.com/
+
+Some problems with Mindvalley
+
+Although I have written 90% of my blog praising Mindvalley and describing it as a paradise for workers, there are still some issues that I feel Mindvalley can improve upon. None of these issues are related to their work life because I consider it to be the most appealing thing about Mindvalley and therefore have not found any fault in it but nothing in this universe is perfect, and the same applies to Mindvalley. The issues I describe may not be universally accepted as “problems" because it is, of course, a subjective topic.
+The location of the two offices — Mindvalley has its headquarters in Malaysia. Now this obviously is not an issue with the locals but when it comes to international aspirants like me, it can be a little tough to get a job there because Malaysia might not be the location of choice for people in the Western parts of the world who are looking for a place to settle down ( I currently reside in Asia and even I am not looking forward to settling down in Malaysia as of now ). Vishen in his book ‘The Code of the Extraordinary Mind’ says that he had to move out of America following the tight administration policies under President Bush after the attacks of 9/11. Even before that, Vishen did not have a permanent residence and was living there on a work visa. So Vishen moved to Malaysia (his native land) and started Mindvalley, which grew into a fantastic company.
+
+The pervasive advertisements —Now, of course, this isn’t a problem for the people working at Mindvalley and also for people who do not have a habit of surfing YouTube, but, for me, it definitely is. The issue is not only the constant breaks before or in between the videos, but also the fact that too much advertisement can make people averse to the product. I understand that advertisement is crucial for any business, and the constantly growing competition forces companies to advertise even more and I, personally, used to rejoice every time I saw Mindvalley advertisements on YouTube and Instagram, because it meant that the company I wanted to get into was growing at a fast rate and was achieving its goals successfully. But lately, I have started feeling that maybe they are trying too hard, which might end up having the opposite effect than what is intended (I just saw three Mindvalley ads in a single video). But this view is, of course, entirely subjective. Neither Mindvalley employees nor all the readers will agree with this being a “problem” and that is because, personally, i have always dislike any advertisement that spoils my experience of viewing a video (maybe problem is too strong of a word…”overkill” is a cooler word).
+
+The reason I call Mindvalley ‘the company of the future’ is because of the tremendous efforts it puts into ensuring employee happiness. In a world where workers are sometimes exploited by even big, trusted brands ( like Amazon’s warehouse workers who are performing back-breaking work around the clock or game developers who are being hired and laid off at a quick pace to avoid salary raises and bonuses ) and where the work-satisfaction of employees is continuously decreasing due to reasons like lack of fulfillment, stress, burnout, anxiety, etc, Mindvalley is a welcome breath of relief. Mindvalley also stands up for LGBTQ+ rights, environmentalism, equality among all races and better education of children on the subject of humanity. All these qualities ensure a better, more prosperous future for our world so why should Mindvalley not be called ‘A company of the future’ when it is helping build a better one in every way possible. Borrowing some lines from one of my favorite movies (and altering it a little bit 😛)—
+“Mindvalley might not be the company we deserve, but it is a company we need.”
+
+More information about work-life at Mindvalley can be found at —
+<a href="https://blog.mindvalley.com/category/life-at-mindvalley/">https://blog.mindvalley.com/category/life-at-mindvalley/</a>
 
 ![It's all blue](./cody-davis-253925-unsplash.jpg)
 

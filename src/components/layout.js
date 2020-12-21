@@ -38,9 +38,7 @@ const Layout = props => {
             </ul>
           </nav>
           <div className="site-head-center">
-            <Link className="site-head-logo" to={`/`}>
-              {title}
-            </Link>
+          <input placeholder="search here"></input>
           </div>
           <div className="site-head-right">
             <div className="social-links">
