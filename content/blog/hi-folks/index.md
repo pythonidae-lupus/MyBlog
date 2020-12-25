@@ -1,109 +1,67 @@
 ---
-title: New Beginnings
+title: Using Duolingo Effectively
 date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
-thumbnail: ./bbbb.jpg
+description: Duolingo is a free and effective tool for learning a new language. Here I share a few tips which can help you be more efficient.
+thumbnail: ./duolingo.png
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+Duolingo is a freemium language learning platform. It has been around for a long time and is quite popular among linguaphiles. As more and more potential students join Duolingo’s free courses offered for a variety of languages, I though it would be helpful to let my fellow language learners learn about some tools which would help them along the way.
 
-## On deer horse aboard tritely yikes and much
+**The Website**
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+You must already be familiar with it. When you go to their website, www.duolingo.com, you will be asked to sign-up and then you can join any language course for free. The premium version, ‘Duolingo Plus’ consists of add-ons which are not essential for your learning but will definitely enhance it or make it easier. I would like to get Duolingo Plus just because I want to support Duolingo and express my gratitude. I have completed my German course without the premium plan and I did not face any problems whatsoever in terms of learning.
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+The website is very user friendly and pretty straightforward to use. The problem is that it has a few bugs. One major bug is that it might not record your progress when you complete some lessons leading you to re-do them over and over. This is why I would recommend the app for Duolingo.
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rethoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+**The App**
 
-### Overlaid the jeepers uselessly much excluding
+The app is even more user-friendly than the website and it has the added benefit of being easily accessible. The app does not have the same bug as the website therefore it is better to use.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+_Tips_
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+The Duolingo app has recently been updated to include the “tips” option when you tap on a lesson. This wasn’t available before and if a new user started their learning directly from the app then they would have found it very difficult to continue with the lessons because those tips are essential for learning the language and building a solid foundation.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+Many beginners either do not know about this useful option or just ignore it. But the label “tips” doesn’t do justice to the knowledge that it contains. Tips contain the rules and exceptions of everything in the grammar of the language. They are very important and please do not make the mistake of skipping over them.
 
-### According a funnily until pre-set or arrogant well cheerful
+I recently updated my app and still have not gotten the “tips” option in it. This seems to be another bug. So for other people facing the same issues, I would recommend going to the website and checking out the tips for your target lesson before continuing with the exercises in the app. If you find the tips tough to memorize, you can solve a few exercises while having the “tips” page open on your computer. This will help you get familiar with the rules and will help put them into your memory as well.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+**Streak**
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+_Maintain your streak!_
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rethoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+It is very important to be consistent with Duolingo. It took me two years to finish my German course because I was inconsistent and once I let go of Duolingo, I wouldn’t pick it up for months which led me to start from the beginning every time because I couldn’t get a good grasp of the language. Having the Duolingo app made it more easy for me to maintain my streak as I could complete a lesson lying on the bed at night if I had forgotten to study during the day.
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+Duolingo recently changed the way in which it counts streaks. Earlier it only counted them when you reached your daily goal, but now you register your streak as soon as you finish one lesson for the day. I believe that this serves as a great motivation and is easier than finishing the daily goal if you do not have much time that day.
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+If you are super busy with your life and have no aptitude for learning a new language for the day, then you can just re-do an already completed lesson which will —
+<ol>
+<li>Be easier.</li>
+<li>Register your streak.</li>
+<li>Will help you feel productive.</li>
+</ol>
 
-#### Silent delightfully including because before one up barring chameleon
+Also, please set the daily goal to something manageable. I remember setting it at 50xp per day because I was too enthusiastic to begin, then realized it just wasn’t as easy as it seemed. Although now streaks are counted in a different way, earlier you couldn’t register a streak if you didn’t achieve a daily goal which meant I continuously lost the chance of even beginning a streak let alone maintain it.
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+**Tinycards**
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+_(Duolingo has stated that it will stop supporting tinycards in September 2020. So it is available for use till then. There are some other apps for practicing vocabulary skills but the ones I know of have there own language courses which continue after vocabulary. So, if you want to try them then ‘Drops’ and ‘Memrise’ offer that functionality)._
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+If you are learning a language whose letters are completely different from your language, for example — learning Korean being an English speaker, then it can be really tough to even wrap your head around the words. If you use Duolingo’s tips alone, you would have to practice rote learning and learn all the letters before progressing to a lesson. So is there any better way ?
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rethoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+Enter tinycards. It is a flash-card app by Duolingo. It contains flash-cards for many languages and includes letters as well as words. There are different decks of cards on the site. So, for example, there will be a German deck for some common German words. These decks can be made by Duolingo as well as the user, so you can make your own decks if you do not find the one you are looking for.
 
-###### Slapped cozy a that lightheartedly and far
+I have used Tinycards to learn about the Korean letters and words because everything about the language was quite new to me. I succeeded in progressing far enough to start practicing the grammar on Duolingo.
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+Tinycards uses spaced learning for getting things stucked to your long term memory. It is highly effective.
+
+**Duolingo events**
+
+Many people don’t know about these. Users of Duolingo can become volunteers (called global ambassadors by Duolingo ) and can host there own events in their city. They can host only for the language that they are learning. If you are learning multiple languages then you have to choose one for which you will be conducting the events. These events are advertised on the app and website ad interested learners of the same language can join you at the venue that has been decided by the host.
+
+If an event for your target language already exists, then Duolingo decides whether another group is necessary or whether that group itself is sufficient. You can then choose to join that group in their next even and can meet fellow learners.
+
+Duolingo events are a great place to meet like minded individuals, practice language speaking — something that cannot be done in an effective way on the website, acquire different techniques for learning and have fun while learning.
+
+I am an introvert and the idea of meeting strangers in a party to talk in/about a new language was intimidating for me. But not only did I have to join an event, I had to become an event host because there were no German events in my city. But the experience has been amazing. Since, the rules of the event are flexible and set by the host, I can set a limit to how many members can participate at a given time and also whether the even will be conducted in full German or just a few mini-games. My pronunciation has improved by being apart of this event and I have formed a close group of German learners which inspired me to finish the course and help others do the same.
+
+Duolingo events are not only helpful for learning and getting better at the language, but it also results in increased connections which can provide a benefit in the future.

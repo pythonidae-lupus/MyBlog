@@ -1,14 +1,40 @@
 ---
-title: Green
+title: Feeling purposeless ? Fate might help
 date: "2019-05-03"
-thumbnail: ./dose-juice-1184429-unsplash.jpg
-description: For in the true nature of things, if we rightly consider, every green tree is far more glorious than if it were made of gold and silver.
+thumbnail: ./space.jpg
+description: Everything began with the Big Bang.From nothing to everything.
 ---
+This universe, which is now of unimaginable proportions, once fit at the tip of the thumb. Hard to imagine, right? In fact, nearly impossible. The struggle that the universe has gone through during all the years of its existence is as huge as its size. The massive collisions, explosions, singeing balls of fire, cold darkness, all these things have led to this moment of time in our universe.
 
-![Green](./chuttersnap-564286-unsplash.jpg)
+Even the planet Earth was just a hot, colliding rock too until things started to settle down. Meteors crashed on the Earth and spilled out water everywhere. For a long, long time. That was Earth. A large ball of water, magma, soil. Uninhabited and lifeless. It took billions of years for the first sign of life to come into being. In the depths of water, chemicals combined to bring forth a unicellular creature. Evolution took place upon millions of years after that. life stayed in the ocean before a really curious fish ventured onto the land. Mutations took place. Animals came into being leading all the way up to the evolution of human beings. The first time that our closest ancestors walked the surface of this planet has led to this time in our lives where, I write this blog and you read it.
 
-![Green](./jazmin-quaynor-105210-unsplash.jpg)
+<a href="https://youtu.be/gZpsVSVRsZk">https://youtu.be/gZpsVSVRsZk</a>
 
-![Green](./josh-silver-730329-unsplash.jpg)
+This transformation, this precise journey is so bizarre that sometimes it doesn’t make sense to consider that this was all by chance. That all the events were just a probability before they came true. The universe seems like a carefully crafted clock with such a mysterious yet elegant design that it is hard not to wonder if all this has been created by a superior power.
 
-![Green](./roman-bozhko-251947-unsplash.jpg)
+Just imagine! There’s just the right amount of oxygen, the right amount of nitrogen, carbon dioxide, hydrogen, . Everything was just in the right amount for life to form. There is also a number, <a href="https://www.firstscience.com/SITE/ARTICLES/rees.asp#:~:text=A%20universe%20within%20which%20omega,'recipe'%20for%20a%20universe.">termed as omega</a>, whose value must have been exactly what it is. If it was any higher or lower, the universe wouldn’t have come into being.
+
+Yes. we can argue that the omega was the number it is and that is why we are. Or that omega must have gone through all trials and errors which might even point to multiple universes where those universes couldn’t survive because the number wasn’t the right value and thus ours is the universe which gets to carry on.
+But then, carry on towards what?
+
+**It is possible to imagine that all of it was just by chance. That we walk on Earth just by chance. That we stare at the beautiful skies just by chance. That we fall in love with others like us just by chance. That we have been able to live just by chance.**
+
+But when you consider the fact that life was just brought about by random events, you stumble upon a scary ( yet arguably true) realization, that life must then not matter to the universe. If we were just an accident instead of a plan, then why would we matter in this grand scheme of the cosmos. Why would we be here ?
+Yet we stand and breathe in this very Universe where we are but a tiny speck. The existence of life in the otherwise dark universe seems such an unimaginable feat that we are left in a thick haze of what purpose we serve.
+
+<a href="https://youtu.be/uD4izuDMUQA">https://youtu.be/uD4izuDMUQA</a>
+
+As this extremely wonderful (yet slightly scary) video shows, the universe will continue shining long after life perishes. This just proves how little the universe cares about us. But then why do we exist at all? Why no other Earth-like planet has yet shown any sign of life? Why was the environment a million years ago suitable for life to grow ? why only Earth receives generous amounts of heat from the Sun? Why did one asteroid had to take a mere 15 degree detour from its orbit just to come and strike the Earth and kill all the dinosaurs ? Why was the environment safe enough for humans to survive ? Why have we been able to flourish for so, so long in this massive and dangerous space where one large enough asteroid floating freely in space can cause global extinction? Is there really a thing called fate ?
+
+_“I’d imagine the whole world was one big machine. Machines never come with any extra parts, you know. They always come with the exact amount they need. So I figured if the entire world was one big machine… I couldn’t be an extra part. I had to be here for some reason.” — Hugo Cabret, Hugo (2012)._
+
+This quote beautifully summarizes my idea. If fate exists, then she must have a plan. After all, the events that have taken place over these gazillion years have been so well crafted like a Rube Goldberg machine. We are all products of years and years and years of persistence, bold steps, curiosity, dangerous ventures, extreme conditions. If we have such a long, mysterious, amazing story behind us, then fate must have a purpose for each one of us. Otherwise what would it have mattered if we were alive or not. As the video shows, the universe was pretty capable of forming and still is able to thrive as it is and definitely is quite adamant on running on its own fuel long after we are gone. We haven’t made even a tiny dent in this grand dance of the celestial. Everything that we know can perish in one swift moment if nature was to play her hand. Yet we live. Yet we have come so far.
+
+Fate has gone through a lot. It cannot be for nothing. If you believe in fate then it makes sense to believe in the fact that you serve a purpose. Fate has traveled a long, weary journey to reach each one of us. She must have something really extraordinary planned for us because as of yet, we as a collective form of life, are still vulnerable to the might of the universe. Let fate give you purpose for she has endured the hardships for a reason. She has put her trust in us. That trust of hers is a purpose. Fate has created us and continues to shield us, it ought to be for something. Don’t let yourself feel purposeless. There is a journey which is far above our understanding. All we can do is trust in fate as she has trusted us. We have been brought this far, it must be with some purpose.
+You can be a toy maker, who once made a special toy. Which was then sold by a person to whom that sale meant another month’s rent. The toy given to a child who is then compelled to dream of spaceships. The dream keeps her in school. The dream fuels her when life gets her down. The dream makes her one of the most successful scientists of her time. This scientist makes a groundbreaking discovery. The credit then belongs to everyone in this chain. Which started with that simplistic toy.
+
+Fate works in ways which we cannot fathom. How can we? Our minds aren’t yet so efficient, are they?
+
+I am familiar with many characteristics of the human brain. One such characteristic is that our brain will always look for a reason even if there isn’t one. It is an evolutionary thing which has guided our survival for so long. We want everything to be logical so that we can make sense out of it and understand it. The unknown is very scary to us. That is why many believe in ghosts while others don’t, many believe in God while others don’t and many believe in fate while other’s don’t — because people have formed their own reasons as to why things are the way they are. These reasons then become ideologies in some cases. Ideologies get attached to the person’s sense of identity, which then makes the person defensive when someone or something questions their reasoning…. because now they derive a sense of self from that very thing. Now it is more than just an idea. Now it becomes who they are (Let’s leave this topic for a future article). So anyways, this property of my brain — to always keep looking for logic and reasons — is the reason why I am compelled to sometimes think of fate as being a driving force in our journey. Because it is quite reasonable to me.
+
+But I, myself, am not a firm believer in fate. I have found something beautiful in our insignificance that I am not ready to give up just yet. But the idea of fate and her driving us forward still comes across my mind a lot. And I give it serious thought because the belief in fate is capable of giving us purpose.
