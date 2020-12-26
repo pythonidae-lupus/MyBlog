@@ -1,5 +1,5 @@
 ---
-title: Are streaming services taking more than just are money?
+title: Are streaming services taking more than just our money?
 date: "2015-05-01T22:12:03.284Z"
 thumbnail: ./netflix.jpg
 ---
