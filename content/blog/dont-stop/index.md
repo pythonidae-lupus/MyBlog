@@ -2,7 +2,7 @@
 title: AGI
 date: "2019-05-07"
 thumbnail: ./agi_gf.png
-description: Pink is my favourite colour. I used to say my favourite colour was black to be cool, but it is pink - all shades of pink. If I have an accessory, it is probably pink.
+description: Artificial general intelligence (AGI) is different from artificial intelligence. Here I try to describe in brief what AGI is and what it aims to achieve.
 ---
 Okay…I know what artificial and intelligence means…but why general?
 
