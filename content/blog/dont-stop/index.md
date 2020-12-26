@@ -2,7 +2,7 @@
 title: AGI
 date: "2019-05-07"
 thumbnail: ./agi_gf.png
-description: Artificial general intelligence (AGI) is different from artificial intelligence. Here I try to describe in brief what AGI is and what it aims to achieve.
+description: Artificial general intelligence (AGI) is different from artificial intelligence (AI). Here I try to describe in brief what AGI is and what it aims to achieve.
 ---
 Okay…I know what artificial and intelligence means…but why general?
 
